@@ -22,7 +22,7 @@
     "@types/react": "~18.2.79",
     "appwrite": "^14.0.0",
     "axios": "^1.6.8",
-    "expo": "^50.0.15",
+    "expo": "^50.0.17",
     "expo-constants": "~15.4.5",
     "expo-device": "~5.9.3",
     "expo-media-library": "~15.9.1",
