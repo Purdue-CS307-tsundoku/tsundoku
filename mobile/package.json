@@ -23,7 +23,7 @@
     "@types/react": "~18.2.79",
     "appwrite": "^14.0.1",
     "axios": "^1.6.8",
-    "expo": "^50.0.18",
+    "expo": "^51.0.1",
     "expo-constants": "~15.4.6",
     "expo-device": "~5.9.4",
     "expo-media-library": "~15.9.2",
@@ -53,7 +53,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.24.5",
-    "@config-plugins/detox": "^7.0.0",
+    "@config-plugins/detox": "^8.0.0",
     "@types/eslint__js": "^8.42.3",
     "detox": "^20.20.3",
     "eslint": "^8.57.0",
